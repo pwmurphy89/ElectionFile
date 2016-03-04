@@ -1,0 +1,51 @@
+body {
+	text-align: center;
+	background-color: #01ED87;
+
+}
+
+h1 {
+	color: #FC4600;
+	font-size: 60px;
+	margin: 40px 0px;
+
+
+}
+
+h3 {
+	color: #fc4600:
+	font-size: 40px;
+}
+
+#countdown-wrapper {
+	color: #fff;
+	font-size: 30px;
+
+}
+
+#countdown-wrapper .time-wrapper {
+	padding: 10px;
+	border-radius: 3px;
+	background: blue;
+	display: inline-block;
+}
+
+.time-wrapper > div {
+	padding: 15px;
+	border-radius: 3px;
+	background-color: black;
+	display: inline-block;
+}
+
+#weeks {
+	color: red;
+}
+
+#hours 
+
+.time-text {
+	padding-top: 5px;
+	font-size: 20px;
+	color: white;
+}
+
